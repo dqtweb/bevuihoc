@@ -1,129 +1,127 @@
 {
-	config: {
-		thumbsize: {w:320, h:180}
-		version: 1.0,
-		last_update: 0,
-	},
-	songs: [
-		{
-			url: "https://www.youtube.com/playlist?list=PL8rCnhl72Gw3xinxSbUcqIE5iU7Rb5ubl",
-			title: "Modern Kids songs",
-			thumb: "https://i.ytimg.com/vi/j58maSCwcF4/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLbhK1OTPhhdU8iEqUDnLFFCv97Y93WWu1",
-			title: "Santa Songs Kids",
-			thumb: "https://i.ytimg.com/vi/mGAYzlqj-aE/mqdefault.jpg",
-		
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL0889BCB80DCD7195",
-			title: "Kids songs (Barefoot Books)",
-			thumb: "https://i.ytimg.com/vi/25_u1GzruQM/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL070F163C9D2AB762",
-			title: "GiggleBellies: Song For Kids".
-			thumb: "https://i.ytimg.com/vi/v_6KuYtc0Z8/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLV-cxl3VSwWEZPb6yEvQaf68_yY8chu8U",
-			title: "Nursery Rhymes | Children Songs By ChuChu TV Kids Songs - The Best on YouTube!",
-			thumb: "https://i.ytimg.com/vi/NBuA6YIQHCs/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLV-cxl3VSwWFsBZwigZ71s0gxInr5Z1jT",
-			title: "Animal Songs For Children",
-			thumb: "https://i.ytimg.com/vi/vsEyaprfmCg/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLV-cxl3VSwWG_opeAaq442N-6HrMyRyUC",
-			title: "123 and ABC Songs for Children Playlist - ChuChu TV Kids Songs",
-			thumb: "https://i.ytimg.com/vi/ea5-SIe5l7M/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLV-cxl3VSwWFQwej9OwCR98yRPB89oqqe",
-			title: "ChuChu TV Cute Fans - Videos",
-			thumb: "https://i.ytimg.com/vi/gT8uZ1H8BWE/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/watch?list=PL028565C616627F50",
-			title: "Super Simple Songs Playlist",
-			thumb: "https://i.ytimg.com/vi/yCjJyiqpAuU/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL1wrsEJEvZjaldT9dV8c9LZgM3ZaMRexd",
-			title: "Kids Dance Songs Playlist"
-			thumb: "https://i.ytimg.com/vi/2UcZWXvgMZE/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL1wrsEJEvZjZevAc73Qc7SKS2MSlTHsh-",
-			title: "Kids Easter Songs Playlist",
-			thumb: "https://i.ytimg.com/vi/nZLIiq7B85g/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL1wrsEJEvZja61hhHbgw1s_LUo39NroI_",
-			title: "Counting Songs for Children",
-			thumb: "https://i.ytimg.com/vi/CkGrKW7D29c/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL1wrsEJEvZjbLE8JM0YQ91_hiOKjmjAYm",
-			title: "ABCs and Phonics Songs for Children",
-			thumb: "https://i.ytimg.com/vi/YlD1zPondSo/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL1wrsEJEvZjYtWyghPeXFxGWSJ8krIN6I",
-			title: "Kiboomu Kids Songs Playlist",
-			thumb: "https://i.ytimg.com/vi/IIUrxo2P5C0/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLE31B6A18209210B0",
-			title: "Animal Songs for Children",
-			thumb: "https://i.ytimg.com/vi/FUGQUFZ3pzw/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLEAE4EE8ED92B47F2",
-			title: "Nursery Rhymes Playlist",
-			thumb: "https://i.ytimg.com/vi/-pF8fwUDlK4/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL4CA669FAA006393C",
-			title: "The Top 30 Songs for Children",
-			thumb: "https://i.ytimg.com/vi/XCuZBILuebI/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL4CA669FAA006393C",
-			title: "The Top 30 Songs for Children"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL91D23224FA603180",
-			title: "Old Macdonald Had A Farm",
-			thumb: "https://i.ytimg.com/vi/q9VczOs-8G8/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL9FDA79DC8AB4A032",
-			title: "150 Nursery rhymes & Children songs",
-			thumb: "https://i.ytimg.com/vi/nUeS6gabSkE/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLJLmOYdTvf8t7MVdSfrLucOBpwUPWlkxT",
-			title: "Valentine's Day Songs for Kids",
-			thumb: "https://i.ytimg.com/vi/kgAx_sQ0mqE/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLbBfnSpdVgabjV5T8K1JAwt_t-rzOfhem",
-			title: "French Songs for Kids with Lyrics",
-			thumb: "https://i.ytimg.com/vi/IYLTc3tGdzc/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PL817AE68AD63CF6A0",
-			title: "Songs for children, a fun and easy way to learn Spanish",
-			thumb: "https://i.ytimg.com/vi/4TCiOSMqhjA/mqdefault.jpg"
-		},
-		{
-			url: "https://www.youtube.com/playlist?list=PLh-1JU15_Ti4Dy6BQ4LDlFbhCjvXV0G-m",
-			title: "Autumn/Fall Songs for Children",
-			thumb: "https://i.ytimg.com/vi/G2lLByjoU4U/mqdefault.jpg"
-		}
-	]
+  "config": {
+    "thumbsize:": {
+      "x": "320",
+      "y": "180"
+    },
+    "version": "1.0",
+    "last_update": "0"
+  },
+  "list": [
+    {
+      "title": "Modern Kids songs",
+      "url": "https://www.youtube.com/playlist?list=PL8rCnhl72Gw3xinxSbUcqIE5iU7Rb5ubl",
+      "thumb": "https://i.ytimg.com/vi/j58maSCwcF4/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLbhK1OTPhhdU8iEqUDnLFFCv97Y93WWu1",
+      "title": "Santa Songs Kids",
+      "thumb": "https://i.ytimg.com/vi/mGAYzlqj-aE/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL0889BCB80DCD7195",
+      "title": "Kids songs (Barefoot Books)",
+      "thumb": "https://i.ytimg.com/vi/mGAYzlqj-aE/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL070F163C9D2AB762",
+      "title": "GiggleBellies: Song For Kids",
+      "thumb": "https://i.ytimg.com/vi/v_6KuYtc0Z8/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLV-cxl3VSwWEZPb6yEvQaf68_yY8chu8U",
+      "title": "Nursery Rhymes | Children Songs By ChuChu TV Kids Songs - The Best on YouTube!",
+      "thumb": "https://i.ytimg.com/vi/NBuA6YIQHCs/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLV-cxl3VSwWFsBZwigZ71s0gxInr5Z1jT",
+      "title": "Animal Songs For Children",
+      "thumb": "https://i.ytimg.com/vi/vsEyaprfmCg/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLV-cxl3VSwWG_opeAaq442N-6HrMyRyUC",
+      "title": "123 and ABC Songs for Children Playlist - ChuChu TV Kids Songs",
+      "thumb": "https://i.ytimg.com/vi/ea5-SIe5l7M/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLV-cxl3VSwWFQwej9OwCR98yRPB89oqqe",
+      "title": "ChuChu TV Cute Fans - Videos",
+      "thumb": "https://i.ytimg.com/vi/gT8uZ1H8BWE/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?list=PL028565C616627F50",
+      "title": "Super Simple Songs Playlist",
+      "thumb": "https://i.ytimg.com/vi/yCjJyiqpAuU/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL1wrsEJEvZjaldT9dV8c9LZgM3ZaMRexd",
+      "title": "Kids Dance Songs Playlist",
+      "thumb": "https://i.ytimg.com/vi/2UcZWXvgMZE/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL1wrsEJEvZjZevAc73Qc7SKS2MSlTHsh-",
+      "title": "Kids Easter Songs Playlist",
+      "thumb": "https://i.ytimg.com/vi/nZLIiq7B85g/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL1wrsEJEvZja61hhHbgw1s_LUo39NroI_",
+      "title": "Counting Songs for Children",
+      "thumb": "https://i.ytimg.com/vi/CkGrKW7D29c/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL1wrsEJEvZjbLE8JM0YQ91_hiOKjmjAYm",
+      "title": "ABCs and Phonics Songs for Children",
+      "thumb": "https://i.ytimg.com/vi/YlD1zPondSo/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL1wrsEJEvZjYtWyghPeXFxGWSJ8krIN6I",
+      "title": "Kiboomu Kids Songs Playlist",
+      "thumb": "https://i.ytimg.com/vi/IIUrxo2P5C0/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLE31B6A18209210B0",
+      "title": "Animal Songs for Children",
+      "thumb": "https://i.ytimg.com/vi/FUGQUFZ3pzw/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLEAE4EE8ED92B47F2",
+      "title": "Nursery Rhymes Playlist",
+      "thumb": "https://i.ytimg.com/vi/-pF8fwUDlK4/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL4CA669FAA006393C",
+      "title": "The Top 30 Songs for Children",
+      "thumb": "https://i.ytimg.com/vi/XCuZBILuebI/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL91D23224FA603180",
+      "title": "Old Macdonald Had A Farm",
+      "thumb": "https://i.ytimg.com/vi/q9VczOs-8G8/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL9FDA79DC8AB4A032",
+      "title": "150 Nursery rhymes & Children songs",
+      "thumb": "https://i.ytimg.com/vi/nUeS6gabSkE/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLJLmOYdTvf8t7MVdSfrLucOBpwUPWlkxT",
+      "title": "Valentine's Day Songs for Kids",
+      "thumb": "https://i.ytimg.com/vi/kgAx_sQ0mqE/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLbBfnSpdVgabjV5T8K1JAwt_t-rzOfhem",
+      "title": "French Songs for Kids with Lyrics",
+      "thumb": "https://i.ytimg.com/vi/IYLTc3tGdzc/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL817AE68AD63CF6A0",
+      "title": "Songs for children, a fun and easy way to learn Spanish",
+      "thumb": "https://i.ytimg.com/vi/4TCiOSMqhjA/mqdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLh-1JU15_Ti4Dy6BQ4LDlFbhCjvXV0G-m",
+      "title": "Autumn/Fall Songs for Children",
+      "thumb": "https://i.ytimg.com/vi/G2lLByjoU4U/mqdefault.jpg"
+    }
+  ]
 }
