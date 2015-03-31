@@ -1,0 +1,14 @@
+{
+  "test": "this is json model for test",
+  "version": "1.0",
+  "item": [
+    {
+      "name": "item 0",
+      "color": "red"
+    },
+    {
+      "name": "item 1",
+      "color": "yellow"
+    }
+  ]
+}
