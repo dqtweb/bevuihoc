@@ -1,9 +1,7 @@
 {
   "config": {
-    "thumbsize": {
-      "w": "320",
-      "h": "180"
-    },
+    "thumbw": "320",
+    "thumbh": "240",
     "version": "1.0",
     "last_update": "0"
   },
